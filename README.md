@@ -7,7 +7,7 @@
 -  I’m currently studying at Informatics Institute of Technology as a second year student.
 
 
-- 📫 How to reach me **Pravihara50@gmail.com**
+- 📫 Reach me **Pravihara50@gmail.com**
 
 <br/>
 
