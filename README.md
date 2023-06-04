@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ravihara De Silva</h1>
 <h3 align="center">A Software Engineering Undergraduate at IIT</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/0e/be/05/0ebe05c2fb0e765f08b9c08096c30e54.jpg">
--  I’m currently studying at Informatics Institute of Technology as a second year student.
+-  I’m currently studying at Informatics Institute of Technology as a third year student.
 
 
 - 📫 Reach me **Pravihara50@gmail.com**
