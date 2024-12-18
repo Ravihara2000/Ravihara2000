@@ -8,7 +8,7 @@
 
 
 - 📫 Reach me **Pravihara50@gmail.com**
-- <img align="right" alt="Coding" width="400" src="https://i.gifer.com/J4x.gif">
+- 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravihara2000&label=Profile%20views&color=0e75b6&style=flat" alt="Ravihara2000" /> </p>
